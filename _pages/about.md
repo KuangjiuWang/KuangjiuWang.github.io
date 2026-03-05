@@ -5,7 +5,6 @@ author_profile: true
 redirect_from:
   - /about/
   - /about.html
-  - layout: single
 ---
 
 Hi! I'm an undergraduate (3rd year) student at **Taishan College, Shandong University**, majoring in **Mathematics**.
