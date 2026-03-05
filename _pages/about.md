@@ -56,7 +56,6 @@ You can find them under the **Notes** or **Posts** section of this website.
 
 - Email: **kuangjiuwang@gmail.com**
 - GitHub: **https://github.com/KuangjiuWang**  
-- (Optional) CV: [CV](/cv/)  
 
 ---
 
