@@ -34,7 +34,7 @@ I’m particularly excited about topics around the interface of geometry, arithm
 ## Education
 
 - **Shandong University (Taishan College)**  
-  B.S. in Mathematics, expected YYYY  
+  B.S. in Mathematics, expected Chinese Academy of Sciences Institute of Mathematics  
   (Undergraduate, 3rd year)
 
 ---
@@ -54,13 +54,12 @@ You can find them under the **Notes** or **Posts** section of this website.
 
 ## Contact
 
-- Email: **your_email@domain.com**
-- GitHub: **https://github.com/yourname**  
+- Email: **kuangjiuwang@gmail.com**
+- GitHub: **https://github.com/KuangjiuWang**  
 - (Optional) CV: [CV](/cv/)  
 
 ---
 
 ## About this site
 
-This is a data-driven personal academic website built with **Jekyll + GitHub Pages**.
 I use it to host notes, occasional posts, and academic materials (e.g., PDFs).
